@@ -1,4 +1,4 @@
-#Simple Boilerplate for vanilla html with vite
+###Simple Boilerplate for vanilla html with vite
 
 1. Vite 
 
